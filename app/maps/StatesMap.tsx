@@ -2,7 +2,7 @@ import { geoAlbersUsa, geoPath } from "d3-geo";
 import { FIPS_TO_AB, usStates } from "./geo";
 
 const VISITED =
-  "WA,OR,CA,NV,ID,MT,WY,CO,AZ,TX,IL,FL,GA,SC,NY,PA,NJ,DE,MA,VT,NH,CT,RI";
+  "WA,OR,CA,NV,ID,MT,WY,CO,AZ,TX,IL,FL,GA,SC,NY,PA,NJ,DE,MA,VT,NH,CT,RI,MO,DC,TN";
 
 const FILL = "#A0522D";
 const EMPTY = "#FBF9F6";
