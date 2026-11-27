@@ -11,7 +11,7 @@ const PROJECTS = [
     name: "Belltower",
     href: "https://belltower.bymanu.me?ref=bymanu.me",
     icon: "/projects/belltower.png",
-    desc: "TODO",
+    desc: "Dining, classes, and parking at UCR in one app",
     badge: "New",
   },
   {

@@ -27,7 +27,7 @@
 ### `👀 Top projects`
 
 
-- **[Belltower ↗](https://belltower.bymanu.me)** - TODO
+- **[Belltower ↗](https://belltower.bymanu.me)** - Dining, classes, parking and the rest of UC Riverside, in one app.
 - **[Waypost ↗](https://waypost.bymanu.me)** - Tag, rename, and sort your files using Apple Intelligence.
 - **[Factsify ↗](https://factsify.bymanu.me)** - Your Spotify listening habits in a nutrition facts label.
 - **[Dysperse ↗](https://dysperse.com)** - Master your momentum.
