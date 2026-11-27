@@ -23,12 +23,6 @@ export function RevealOnScroll({
     const el = ref.current;
     if (!el) return;
 
-    // Without observer support, show the finished state immediately.
-    if (typeof IntersectionObserver === "undefined") {
-      setVisible(true);
-      return;
-    }
-
     const observer = new IntersectionObserver(
       (entries) => {
         if (entries.some((entry) => entry.isIntersecting)) {

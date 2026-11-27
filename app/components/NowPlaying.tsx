@@ -35,7 +35,8 @@ function usePlayhead(data: Playing | undefined) {
   const isPlaying = data?.is_playing ?? false;
 
   const base = useRef(data?.progress_ms ?? 0);
-  const syncedAt = useRef(Date.now());
+  // Set by the sync effect below on mount, before the interval ever reads it.
+  const syncedAt = useRef(0);
   const [progress, setProgress] = useState(data?.progress_ms ?? 0);
 
   useEffect(() => {

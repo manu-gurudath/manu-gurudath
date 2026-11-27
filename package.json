@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint ."
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -30,6 +30,6 @@
     "eslint-config-next": "^16.4.6",
     "playwright-core": "^1.65.1",
     "postcss": "^8.5.33",
-    "typescript": "^7.0.2"
+    "typescript": "^6.0.3"
   }
 }
