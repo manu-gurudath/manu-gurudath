@@ -27,10 +27,10 @@
 ### `👀 Top projects`
 
 
+- **[Belltower ↗](https://belltower.bymanu.me)** - TODO
 - **[Waypost ↗](https://waypost.bymanu.me)** - Tag, rename, and sort your files using Apple Intelligence.
 - **[Factsify ↗](https://factsify.bymanu.me)** - Your Spotify listening habits in a nutrition facts label.
 - **[Dysperse ↗](https://dysperse.com)** - Master your momentum.
-- **[ElmasriAI ↗](https://elmasri.bymanu.me)** - AP Physics tutoring powered by AI, trained on the official CollegeBoard resources
 
 ### `✨ My workspace`
 <img src="https://github.com/user-attachments/assets/16c13eaa-5c70-4e35-ae7d-ed1915a84c37" height="200">

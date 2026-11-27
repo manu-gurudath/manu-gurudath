@@ -8,6 +8,13 @@ import { SectionHead } from "./SectionHead";
  */
 const PROJECTS = [
   {
+    name: "Belltower",
+    href: "https://belltower.bymanu.me?ref=bymanu.me",
+    icon: "/projects/belltower.png",
+    desc: "TODO",
+    badge: "New",
+  },
+  {
     name: "Waypost",
     href: "https://waypost.bymanu.me?ref=bymanu.me",
     icon: "/projects/waypost.svg",
@@ -25,12 +32,6 @@ const PROJECTS = [
     href: "https://dysperse.com?ref=manu.bymanu.me",
     icon: "/projects/dysperse.png",
     desc: "Productivity for humans",
-  },
-  {
-    name: "ElmasriAI",
-    href: "https://elmasri.bymanu.me?ref=bymanu.me",
-    icon: "/projects/elmasriai.png",
-    desc: "AP physics tutoring powered by AI",
   },
 ];
 
